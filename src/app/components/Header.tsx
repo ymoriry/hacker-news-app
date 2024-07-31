@@ -16,7 +16,8 @@ const Header = () => {
           bgcolor: '#fff',
           height: '100px',
           position: 'fixed',
-          top: '0'
+          top: '0',
+          zIndex: '1'
         }}
       >
         News Site
